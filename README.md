@@ -1,4 +1,4 @@
-# FudanNLP_Beginner_study
+# FudanNLP_Beginner_Study
 
 持续更新中ing——
 
