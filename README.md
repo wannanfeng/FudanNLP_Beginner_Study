@@ -1,10 +1,10 @@
 # FudanNLP_Beginner_Study
 
-复旦大学NLP实验室作业
+复旦大学NLP实验室作业(finish)
 
-记录自己的学习
+记录自己的NLP入门学习
 
-持续更新中ing——
+很多代码都是边看别人边复现出来的，太菜了QAQ
 
 Project address: https://github.com/FudanNLP/nlp-beginner
 
