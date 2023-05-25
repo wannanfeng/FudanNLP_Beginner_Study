@@ -68,7 +68,7 @@ class Glove_embedding():
         self.len_tag = len(self.tag_dict)
         self.len_words = len(self.dict_words) + 1
 
-    def get_id(self): #获取embedding矩阵?
+    def get_id(self): #获取每句中每个单词的ID
         for term in self.train_x:
             item = [self.dict_words[word] for word in term]
             self.longest = max(self.longest, len(item))
