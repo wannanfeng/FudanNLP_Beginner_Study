@@ -1,4 +1,4 @@
-目标：对一个英文句子进行序列标注 (CRF部分实现真的有点难QAQ,已经放弃)
+目标：对一个英文句子进行序列标注 (CRF部分实现真的有点难QAQ,已经放弃,推荐调包)
 
 glove.6B.50d.txt 数据下载地址: https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 
