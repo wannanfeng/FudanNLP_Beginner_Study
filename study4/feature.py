@@ -45,7 +45,7 @@ class Glove_embedding():
         self.embedding = list()
         self.tag_dict = {'<pad>': 0, '<begin>': 1, '<end>': 2}
 
-    def get_words(self):
+    def get_words(self):  # 得到单词字典，得到每个单词以及对应的ID
         self.embedding.append([0]*50)
         for term in self.train_x:
             for word in term:
@@ -68,7 +68,7 @@ class Glove_embedding():
         self.len_tag = len(self.tag_dict)
         self.len_words = len(self.dict_words) + 1
 
-    def get_id(self): #获取每句中每个单词的ID
+    def get_id(self): #获取每句中每个单词的ID作为矩阵？
         for term in self.train_x:
             item = [self.dict_words[word] for word in term]
             self.longest = max(self.longest, len(item))
