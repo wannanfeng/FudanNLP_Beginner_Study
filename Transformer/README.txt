@@ -1,3 +1,5 @@
+Reproduced the paper code：Attention is all you need
+
 tutorial：https://www.youtube.com/watch?v=U0s0f995w14
 
 Attention score: attention = softmax(QK^T/(d**0.5))V
