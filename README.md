@@ -1,6 +1,6 @@
 # FudanNLP_Beginner_Study
 
-复旦大学NLP实验室作业(finish)
+复旦大学NLP实验室作业(finish) : include study(1 -> 5)
 
 记录自己的NLP入门学习
 
